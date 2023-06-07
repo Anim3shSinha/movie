@@ -1,4 +1,4 @@
-# JProject Live Demo
+# Project Live Demo
 
 Link - [Click here to view live demo](https://movie-booking-animesh.netlify.app/)
 
