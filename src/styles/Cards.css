@@ -1,0 +1,39 @@
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 40px;
+}
+
+.card-name {
+    color: white;
+    background-color: brown;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.card-name:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    transform: scale(1.05);
+    border: 2px solid rgb(222, 94, 94);
+}
+
+.card-rating {
+    color: white;
+    background-color: brown;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.card-img:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
